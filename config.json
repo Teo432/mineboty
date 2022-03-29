@@ -1,12 +1,8 @@
 {
-    "ip": "",
-    "port": "",
+    "ip": "Velco.aternos.me",
+    "port": "60371",
     "name": "katy",
     "auto-night-skip": "false",
     "prefix": "",
-    "login-enabled": "true",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "",
     "auto-reconnect": "true"
 }
